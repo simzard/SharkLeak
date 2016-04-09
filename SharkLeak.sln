@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BCC7BBA5-AB19-0FE0-7D70-BA029A3A9B2D}") = "SharkLeak", "Assembly-CSharp.csproj", "{FB531577-286A-E1F1-328D-53C702812723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB531577-286A-E1F1-328D-53C702812723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB531577-286A-E1F1-328D-53C702812723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB531577-286A-E1F1-328D-53C702812723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB531577-286A-E1F1-328D-53C702812723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
